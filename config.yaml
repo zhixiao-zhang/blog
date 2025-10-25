@@ -1,0 +1,61 @@
+baseURL: https://blog-zhixiao-zhangs-projects.vercel.app
+languageCode: zh-CN
+defaultContentLanguage: zh-cn
+defaultContentLanguageInSubdir: true
+title: 骊歌
+copyright: "© 2025 Zhixiao Zhang"
+theme: "hugo-xmag"
+
+pagination:
+  pagerSize: 6
+
+enableInlineShortcodes: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+footnotereturnlinkcontents: "↩"
+hasCJKLanguage: true
+
+languages:
+  zh-cn:
+    menu:
+      main:
+        - name: 首页
+          url: /
+          weight: 1
+        - name: 分类
+          url: /categories/
+          weight: 2
+        - name: 个人简介
+          url: /about/
+          weight: 3
+        - name: 歌词
+          url: /lyrics/
+          weight: 4
+    contentDir: content/zh-cn
+
+  en:
+    menu:
+      main:
+        - name: Home
+          url: /
+          weight: 1
+        - name: Categories
+          url: /categories/
+          weight: 2
+        - name: About
+          url: /about/
+          weight: 3
+    contentDir: content/en
+params:
+  description: "Test"
+  footer: "&copy; Zhixiao Zhang 2024 - 2025 | [Github](https://github.com/zhixiao-zhang)"
+  text:
+    back: "&larr; Back to Home"
+    edit: "Edit this page &rarr;"
+    truncated: "&hellip;"
+  summary_length: 200
+
+  markup:
+    defaultMarkdownHandler: org
