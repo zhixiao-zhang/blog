@@ -1,0 +1,61 @@
+#+TITLE: 帝女花·香夭
+#+CATEGORIES[]: 歌词
+
+#+BEGIN_EXPORT html
+<ruby>
+落<rt>&nbsp;lok6</rt>花<rt>&nbsp;faa1</rt>滿<rt>&nbsp;mun5</rt>天<rt>&nbsp;tin1</rt>蔽<rt>&nbsp;bai3</rt>月<rt>&nbsp;jyut6</rt>光<rt>&nbsp;gwong1</rt> 借<rt>&nbsp;ze3</rt>一<rt>&nbsp;jat1</rt>杯<rt>&nbsp;bui1</rt>附<rt>&nbsp;fu6</rt>薦<rt>&nbsp;zin3</rt>鳳<rt>&nbsp;fung6</rt>台<rt>&nbsp;toi4</rt>上<rt>&nbsp;soeng6</rt>
+</ruby><br><br>
+
+<ruby>
+帝<rt>&nbsp;dai3</rt>女<rt>&nbsp;neoi5</rt>花<rt>&nbsp;faa1</rt>帶<rt>&nbsp;daai3</rt>淚<rt>&nbsp;leoi6</rt>上<rt>&nbsp;soeng5</rt>香<rt>&nbsp;hoeng1</rt> 願<rt>&nbsp;jyun6</rt>喪<rt>&nbsp;song3</rt>生<rt>&nbsp;sang1</rt>回<rt>&nbsp;wui4</rt>謝<rt>&nbsp;ze6</rt>爹<rt>&nbsp;de1</rt>娘<rt>&nbsp;noeng4</rt>
+</ruby><br><br>
+
+<ruby>
+我<rt>&nbsp;ngo5</rt>偷<rt>&nbsp;tau1</rt>偷<rt>&nbsp;tau1</rt>看<rt>&nbsp;hon3</rt>偷<rt>&nbsp;tau1</rt>偷<rt>&nbsp;tau1</rt>望<rt>&nbsp;mong6</rt> 佢<rt>&nbsp;keoi5</rt>帶<rt>&nbsp;daai3</rt>淚<rt>&nbsp;leoi6</rt>帶<rt>&nbsp;daai3</rt>淚<rt>&nbsp;leoi6</rt>暗<rt>&nbsp;am3</rt>悲<rt>&nbsp;bei1</rt>傷<rt>&nbsp;soeng1</rt>
+</ruby><br><br>
+
+<ruby>
+我<rt>&nbsp;ngo5</rt>半<rt>&nbsp;bun3</rt>帶<rt>&nbsp;daai3</rt>驚<rt>&nbsp;geng1</rt>惶<rt>&nbsp;wong4</rt> 怕<rt>&nbsp;paa3</rt>駙<rt>&nbsp;fu6</rt>馬<rt>&nbsp;maa5</rt>惜<rt>&nbsp;sik1</rt>鸞<rt>&nbsp;lyun4</rt>鳳<rt>&nbsp;fung6</rt>配<rt>&nbsp;pui3</rt> 不<rt>&nbsp;bat1</rt>甘<rt>&nbsp;gam1</rt>殉<rt>&nbsp;seon1</rt>愛<rt>&nbsp;oi3</rt>伴<rt>&nbsp;bun6</rt>我<rt>&nbsp;ngo5</rt>臨<rt>&nbsp;lam4</rt>泉<rt>&nbsp;cyun4</rt>壤<rt>&nbsp;joeng6</rt>
+</ruby><br><br>
+
+<ruby>
+寸<rt>&nbsp;cyun3</rt>心<rt>&nbsp;sam1</rt>盼<rt>&nbsp;paan3</rt>望<rt>&nbsp;mong6</rt>能<rt>&nbsp;nang4</rt>同<rt>&nbsp;tung4</rt>合<rt>&nbsp;hap6</rt>葬<rt>&nbsp;zong3</rt> 鴛<rt>&nbsp;jin1</rt>鴦<rt>&nbsp;joeng1</rt>侶<rt>&nbsp;leoi5</rt> 相<rt>&nbsp;soeng2</rt>偎<rt>&nbsp;wui1</rt>傍<rt>&nbsp;bong6</rt>
+</ruby><br><br>
+
+<ruby>
+泉<rt>&nbsp;cyun4</rt>台<rt>&nbsp;toi4</rt>上<rt>&nbsp;soeng5</rt>再<rt>&nbsp;zoi3</rt>設<rt>&nbsp;cit3</rt>新<rt>&nbsp;san1</rt>房<rt>&nbsp;fong2</rt> 地<rt>&nbsp;dei6</rt>府<rt>&nbsp;fu2</rt>陰<rt>&nbsp;jam1</rt>司<rt>&nbsp;si1</rt>裏<rt>&nbsp;leoi5</rt>再<rt>&nbsp;zoi3</rt>覓<rt>&nbsp;mik6</rt>那<rt>&nbsp;naa5</rt>平<rt>&nbsp;ping4</rt>陽<rt>&nbsp;joeng4</rt>門<rt>&nbsp;mun4</rt>巷<rt>&nbsp;hong6</rt>
+</ruby><br><br>
+
+<ruby>
+唉<rt>&nbsp;aai4</rt> 惜<rt>&nbsp;sik1</rt>花<rt>&nbsp;faa1</rt>者<rt>&nbsp;ze2</rt>甘<rt>&nbsp;gam1</rt>殉<rt>&nbsp;seon1</rt>葬<rt>&nbsp;zong3</rt>花<rt>&nbsp;faa1</rt>燭<rt>&nbsp;zuk1</rt>夜<rt>&nbsp;je6</rt> 難<rt>&nbsp;naan4</rt>為<rt>&nbsp;wai2</rt>駙<rt>&nbsp;fu6</rt>馬<rt>&nbsp;maa5</rt>飲<rt>&nbsp;jam2</rt>砒<rt>&nbsp;pei1</rt>霜<rt>&nbsp;soeng1</rt>
+</ruby><br><br>
+
+<ruby>
+江<rt>&nbsp;gong1</rt>山<rt>&nbsp;saan1</rt>悲<rt>&nbsp;bei1</rt>災<rt>&nbsp;zoi1</rt>劫<rt>&nbsp;gip3</rt>感<rt>&nbsp;gam2</rt>先<rt>&nbsp;sin1</rt>帝<rt>&nbsp;dai3</rt> 恩<rt>&nbsp;jan1</rt>千<rt>&nbsp;cin1</rt>丈<rt>&nbsp;zoeng6</rt>；與<rt>&nbsp;jyu5</rt>妻<rt>&nbsp;cai1</rt>雙<rt>&nbsp;soeng1</rt>雙<rt>&nbsp;soeng1</rt>叩<rt>&nbsp;kau3</rt>問<rt>&nbsp;man6</rt>帝<rt>&nbsp;dai3</rt>安<rt>&nbsp;on1</rt>
+</ruby><br><br>
+
+<ruby>
+唉<rt>&nbsp;aai4</rt> 盼<rt>&nbsp;paan3</rt>得<rt>&nbsp;dak1</rt>花<rt>&nbsp;faa1</rt>燭<rt>&nbsp;zuk1</rt>共<rt>&nbsp;gung6</rt>諧<rt>&nbsp;haai4</rt>白<rt>&nbsp;baak6</rt>髮<rt>&nbsp;faat3</rt> 誰<rt>&nbsp;seoi4</rt>個<rt>&nbsp;go3</rt>願<rt>&nbsp;jyun6</rt>看<rt>&nbsp;hon3</rt>花<rt>&nbsp;faa1</rt>燭<rt>&nbsp;zuk1</rt>翻<rt>&nbsp;faan1</rt>血<rt>&nbsp;hyut3</rt>浪<rt>&nbsp;long6</rt>
+</ruby><br><br>
+
+<ruby>
+唉<rt>&nbsp;aai4</rt> 我<rt>&nbsp;ngo5</rt>誤<rt>&nbsp;ng6</rt>君<rt>&nbsp;gwan1</rt>累<rt>&nbsp;leoi6</rt>你<rt>&nbsp;nei5</rt>同<rt>&nbsp;tung4</rt>埋<rt>&nbsp;maai4</rt>孽<rt>&nbsp;jit6</rt>網<rt>&nbsp;mong5</rt> 好<rt>&nbsp;hou2</rt>應<rt>&nbsp;jing1</rt>盡<rt>&nbsp;zeon6</rt>禮<rt>&nbsp;lai5</rt>揖<rt>&nbsp;cap1</rt>花<rt>&nbsp;faa1</rt>燭<rt>&nbsp;zuk1</rt>深<rt>&nbsp;sam1</rt>深<rt>&nbsp;sam1</rt>拜<rt>&nbsp;baai3</rt>
+</ruby><br><br>
+
+<ruby>
+再<rt>&nbsp;zoi3</rt>合<rt>&nbsp;hap6</rt>巹<rt>&nbsp;gan2</rt>交<rt>&nbsp;gaau1</rt>杯<rt>&nbsp;bui1</rt> 墓<rt>&nbsp;mou6</rt>穴<rt>&nbsp;jyut6</rt>作<rt>&nbsp;zok3</rt>新<rt>&nbsp;san1</rt>房<rt>&nbsp;fong2</rt> 待<rt>&nbsp;doi6</rt>千<rt>&nbsp;cin1</rt>秋<rt>&nbsp;cau1</rt>歌<rt>&nbsp;go1</rt>讚<rt>&nbsp;zaan3</rt>註<rt>&nbsp;zyu3</rt>駙<rt>&nbsp;fu6</rt>馬<rt>&nbsp;maa5</rt>在<rt>&nbsp;zoi6</rt>靈<rt>&nbsp;ling4</rt>牌<rt>&nbsp;paai2</rt>上<rt>&nbsp;soeng6</rt>
+</ruby><br><br>
+
+<ruby>
+將<rt>&nbsp;zoeng1</rt>柳<rt>&nbsp;lau5</rt>陰<rt>&nbsp;jam1</rt>當<rt>&nbsp;dong1</rt>做<rt>&nbsp;zou6</rt>芙<rt>&nbsp;fu4</rt>蓉<rt>&nbsp;jung4</rt>帳<rt>&nbsp;zoeng3</rt> 明<rt>&nbsp;ming4</rt>朝<rt>&nbsp;ciu4</rt>駙<rt>&nbsp;fu6</rt>馬<rt>&nbsp;maa5</rt>看<rt>&nbsp;hon3</rt>新<rt>&nbsp;san1</rt>娘<rt>&nbsp;noeng4</rt> 夜<rt>&nbsp;je6</rt>半<rt>&nbsp;bun3</rt>挑<rt>&nbsp;tiu1</rt>燈<rt>&nbsp;dang1</rt>有<rt>&nbsp;jau5</rt>心<rt>&nbsp;sam1</rt>作<rt>&nbsp;zok3</rt>窺<rt>&nbsp;kwai1</rt>妝<rt>&nbsp;zong1</rt>
+</ruby><br><br>
+
+<ruby>
+地<rt>&nbsp;dei6</rt>老<rt>&nbsp;lou5</rt>天<rt>&nbsp;tin1</rt>荒<rt>&nbsp;fong1</rt> 情<rt>&nbsp;cing4</rt>鳳<rt>&nbsp;fung6</rt>永<rt>&nbsp;wing5</rt>配<rt>&nbsp;pui3</rt>痴<rt>&nbsp;ci1</rt>凰<rt>&nbsp;wong4</rt> 願<rt>&nbsp;jyun6</rt>與<rt>&nbsp;jyu5</rt>夫<rt>&nbsp;fu1</rt>婿<rt>&nbsp;sai3</rt>共<rt>&nbsp;gung6</rt>拜<rt>&nbsp;baai3</rt>相<rt>&nbsp;soeng2</rt>交<rt>&nbsp;gaau1</rt>杯<rt>&nbsp;bui1</rt>舉<rt>&nbsp;geoi2</rt>案<rt>&nbsp;on3</rt>
+</ruby><br><br>
+
+<ruby>
+遞<rt>&nbsp;dai6</rt>過<rt>&nbsp;gwo3</rt>金<rt>&nbsp;gam1</rt>杯<rt>&nbsp;bui1</rt>慢<rt>&nbsp;maan6</rt>噎<rt>&nbsp;jit3</rt>輕<rt>&nbsp;heng1</rt>嘗<rt>&nbsp;soeng4</rt> 將<rt>&nbsp;zoeng1</rt>砒<rt>&nbsp;pei1</rt>霜<rt>&nbsp;soeng1</rt>帶<rt>&nbsp;daai3</rt>淚<rt>&nbsp;leoi6</rt>放<rt>&nbsp;fong3</rt>落<rt>&nbsp;lok6</rt>葡<rt>&nbsp;pou4</rt>萄<rt>&nbsp;tou4</rt>上<rt>&nbsp;soeng6</rt>
+</ruby><br><br>
+#+END_EXPORT
+
