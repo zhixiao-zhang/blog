@@ -6,8 +6,7 @@ title: 骊歌
 copyright: "© 2025 Zhixiao Zhang"
 theme: "hugo-xmag"
 
-pagination:
-  pagerSize: 6
+paginate: 6
 
 enableInlineShortcodes: true
 buildDrafts: false
