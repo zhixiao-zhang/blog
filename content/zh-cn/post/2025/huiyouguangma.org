@@ -1,6 +1,6 @@
 #+TITLE: 会有光吗？
 #+DATE: 2025-04-23
-#+CATEGORIES[]: 散文
+#+CATEGORIES[]: 随笔
 
 此刻，屋外大雨。
 

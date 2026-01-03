@@ -1,6 +1,6 @@
 #+TITLE: Deep Work Is All You Need
 #+DATE: 2025-05-26
-#+CATEGORIES[]: 书评
+#+CATEGORIES[]: 读书笔记
 
 #+BEGIN_QUOTE
 如果你对深度工作不感兴趣，欢迎随时跳转到最后一部分后记～

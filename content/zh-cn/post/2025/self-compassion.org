@@ -1,6 +1,6 @@
 #+TITLE: Self Compassion Is All You Need
 #+DATE: 2025-05-31
-#+CATEGORIES[]: 书评
+#+CATEGORIES[]: 读书笔记
 
 #+BEGIN_QUOTE
 +我确实很喜欢玩 Attention Is All You Need 这个梗+

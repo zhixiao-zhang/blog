@@ -1,6 +1,6 @@
 #+TITLE: 北京游记
 #+DATE: 2024-12-05
-#+CATEGORIES[]: 散文
+#+CATEGORIES[]: 随笔
 
 我已经来过北京六次了。我喜欢这里。
 
