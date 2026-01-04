@@ -1,6 +1,6 @@
 #+TITLE: 谈词语——祛魅“祛魅”
 #+DATE: 2025-08-07
-#+CATEGORIES[]: 杂文 文化评论
+#+CATEGORIES[]: 杂文
 
 [[file:/images/showcase.jpeg]]
 

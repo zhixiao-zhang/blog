@@ -2,3 +2,19 @@ title_home:
   other: "首页"
 title_categories:
   other: "分类"
+title_lyrics:
+  other: "歌词"
+view:
+  translation: "查看"
+post_count:
+  one: "{{ .Count }} 篇文章"
+  other: "{{ .Count }} 篇文章"
+back_home:
+  other: "返回首页"
+back_section_lyrics:
+  other: "返回歌词"
+back_section_post:
+  other: "返回首页"
+posts:
+  other: "文章"
+

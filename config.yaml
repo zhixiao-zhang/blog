@@ -55,6 +55,8 @@ params:
     edit: "Edit this page &rarr;"
     truncated: "&hellip;"
   summary_length: 200
+  terms_exclude:
+    - "歌词"
 
   markup:
     defaultMarkdownHandler: org

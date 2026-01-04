@@ -1,2 +1,11 @@
 title_categories:
   other: "Categories"
+view:
+  other: "View"
+post_count:
+  one: "{{ .Count }} post"
+  other: "{{ .Count }} posts"
+back_home:
+  other: "Back to Home"
+back_section_lyrics:
+  other: "Back to Lyrics"
