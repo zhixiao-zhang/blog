@@ -4,6 +4,8 @@ title_categories:
   other: "分类"
 title_lyrics:
   other: "歌词"
+title_posts:
+  other: "文章"
 view:
   other: "查看"
 post_count:
@@ -17,4 +19,3 @@ back_section_post:
   other: "返回首页"
 posts:
   other: "文章"
-
