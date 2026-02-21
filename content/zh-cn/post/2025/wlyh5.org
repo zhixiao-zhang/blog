@@ -1,5 +1,6 @@
 #+TITLE: 围炉夜话（5）
 #+DATE: 2025-09-10
+#+DRAFT: true
 #+CATEGORIES[]: 随笔
 
 #+BEGIN_QUOTE
