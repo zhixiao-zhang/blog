@@ -1,0 +1,116 @@
+#+TITLE: 风的季节
+#+CATEGORIES[]: 歌词
+
+#+BEGIN_EXPORT html
+<ruby>
+涼<rt>&nbsp;loeng4</rt>風<rt>&nbsp;fung1</rt>輕<rt>&nbsp;hing1</rt>輕<rt>&nbsp;hing1</rt>吹<rt>&nbsp;ceoi1</rt>到<rt>&nbsp;dou3</rt> 悄<rt>&nbsp;ciu3</rt>然<rt>&nbsp;jin4</rt>進<rt>&nbsp;zeon3</rt>了<rt>&nbsp;liu5</rt>我<rt>&nbsp;ngo5</rt>衣<rt>&nbsp;ji1</rt>襟<rt>&nbsp;kam1</rt>
+</ruby><br><br>
+
+<ruby>
+夏<rt>&nbsp;haa6</rt>天<rt>&nbsp;tin1</rt>偷<rt>&nbsp;tau1</rt>去<rt>&nbsp;heoi3</rt> 聽<rt>&nbsp;teng1</rt>不<rt>&nbsp;bat1</rt>見<rt>&nbsp;gin3</rt>聲<rt>&nbsp;sing1</rt>音<rt>&nbsp;jam1</rt>
+</ruby><br><br>
+
+<ruby>
+日<rt>&nbsp;jat6</rt>子<rt>&nbsp;zi2</rt>匆<rt>&nbsp;cung1</rt>匆<rt>&nbsp;cung1</rt>走<rt>&nbsp;zau2</rt>過<rt>&nbsp;gwo3</rt> 倍<rt>&nbsp;pui5</rt>令<rt>&nbsp;ling6</rt>我<rt>&nbsp;ngo5</rt>有<rt>&nbsp;jau5</rt>百<rt>&nbsp;baak3</rt>感<rt>&nbsp;gam2</rt>生<rt>&nbsp;saang1</rt>
+</ruby><br><br>
+
+<ruby>
+記<rt>&nbsp;gei3</rt>掛<rt>&nbsp;gwaa3</rt>那<rt>&nbsp;naa5</rt>一<rt>&nbsp;jat1</rt>片<rt>&nbsp;pin3</rt>景<rt>&nbsp;ging2</rt>象<rt>&nbsp;zoeng6</rt>繽<rt>&nbsp;ban1</rt>紛<rt>&nbsp;fan1</rt>
+</ruby><br><br>
+
+<ruby>
+隨<rt>&nbsp;ceoi4</rt>風<rt>&nbsp;fung1</rt>輕<rt>&nbsp;hing1</rt>輕<rt>&nbsp;hing1</rt>吹<rt>&nbsp;ceoi1</rt>到<rt>&nbsp;dou3</rt> 你<rt>&nbsp;nei5</rt>步<rt>&nbsp;bou6</rt>進<rt>&nbsp;zeon3</rt>了<rt>&nbsp;liu5</rt>我<rt>&nbsp;ngo5</rt>的<rt>&nbsp;dik1</rt>心<rt>&nbsp;sam1</rt>
+</ruby><br><br>
+
+<ruby>
+在<rt>&nbsp;zoi6</rt>一<rt>&nbsp;jat1</rt>息<rt>&nbsp;sik1</rt>間<rt>&nbsp;gaan1</rt> 改<rt>&nbsp;goi2</rt>變<rt>&nbsp;bin3</rt>我<rt>&nbsp;ngo5</rt>一<rt>&nbsp;jat1</rt>生<rt>&nbsp;sang1</rt>
+</ruby><br><br>
+
+<ruby>
+付<rt>&nbsp;fu6</rt>出<rt>&nbsp;ceot1</rt>多<rt>&nbsp;do1</rt>少<rt>&nbsp;siu2</rt>熱<rt>&nbsp;jit6</rt>誠<rt>&nbsp;sing4</rt> 也<rt>&nbsp;jaa5</rt>沒<rt>&nbsp;mut6</rt>法<rt>&nbsp;faat3</rt>去<rt>&nbsp;heoi3</rt>計<rt>&nbsp;gai3</rt>得<rt>&nbsp;dak1</rt>真<rt>&nbsp;zan1</rt>
+</ruby><br><br>
+
+<ruby>
+卻<rt>&nbsp;koek3</rt>也<rt>&nbsp;jaa5</rt>不<rt>&nbsp;bat1</rt>需<rt>&nbsp;seoi1</rt>再<rt>&nbsp;zoi3</rt>驚<rt>&nbsp;geng1</rt>懼<rt>&nbsp;geoi6</rt> 風<rt>&nbsp;fung1</rt>雨<rt>&nbsp;jyu5</rt>侵<rt>&nbsp;cam1</rt>
+</ruby><br><br>
+
+<ruby>
+吹<rt>&nbsp;ceoi1</rt>啊<rt>&nbsp;aa1</rt>吹<rt>&nbsp;ceoi1</rt> 讓<rt>&nbsp;joeng6</rt>這<rt>&nbsp;ze5</rt>風<rt>&nbsp;fung1</rt>吹<rt>&nbsp;ceoi1</rt>
+</ruby><br><br>
+
+<ruby>
+抹<rt>&nbsp;maat3</rt>乾<rt>&nbsp;gon1</rt>眼<rt>&nbsp;ngaan5</rt>眸<rt>&nbsp;mau4</rt>裡<rt>&nbsp;leoi5</rt> 亮<rt>&nbsp;loeng6</rt>晶<rt>&nbsp;zing1</rt>的<rt>&nbsp;dik1</rt>眼<rt>&nbsp;ngaan5</rt>淚<rt>&nbsp;leoi6</rt>
+</ruby><br><br>
+
+<ruby>
+吹<rt>&nbsp;ceoi1</rt>啊<rt>&nbsp;aa1</rt>吹<rt>&nbsp;ceoi1</rt> 讓<rt>&nbsp;joeng6</rt>這<rt>&nbsp;ze5</rt>風<rt>&nbsp;fung1</rt>吹<rt>&nbsp;ceoi1</rt>
+</ruby><br><br>
+
+<ruby>
+哀<rt>&nbsp;oi1</rt>傷<rt>&nbsp;soeng1</rt>通<rt>&nbsp;tung1</rt>通<rt>&nbsp;tung1</rt>帶<rt>&nbsp;daai3</rt>走<rt>&nbsp;zau2</rt> 管<rt>&nbsp;gun2</rt>風<rt>&nbsp;fung1</rt>裡<rt>&nbsp;leoi5</rt>是<rt>&nbsp;si6</rt>誰<rt>&nbsp;seoi4</rt>
+</ruby><br><br>
+
+<ruby>
+從<rt>&nbsp;cung4</rt>風<rt>&nbsp;fung1</rt>沙<rt>&nbsp;saa1</rt>初<rt>&nbsp;co1</rt>起<rt>&nbsp;hei2</rt>想<rt>&nbsp;soeng2</rt>到<rt>&nbsp;dou3</rt>是<rt>&nbsp;si6</rt>季<rt>&nbsp;gwai3</rt>節<rt>&nbsp;zit3</rt>變<rt>&nbsp;bin3</rt>更<rt>&nbsp;gang1</rt>
+</ruby><br><br>
+
+<ruby>
+夢<rt>&nbsp;mung6</rt>中<rt>&nbsp;zung1</rt>醒<rt>&nbsp;sing2</rt>卻<rt>&nbsp;koek3</rt> 歲<rt>&nbsp;seoi3</rt>月<rt>&nbsp;jyut6</rt>如<rt>&nbsp;jyu4</rt>飛<rt>&nbsp;fei1</rt>奔<rt>&nbsp;ban1</rt>
+</ruby><br><br>
+
+<ruby>
+是<rt>&nbsp;si6</rt>否<rt>&nbsp;fau2</rt>早<rt>&nbsp;zou2</rt>訂<rt>&nbsp;deng6</rt>下<rt>&nbsp;haa6</rt>來<rt>&nbsp;loi4</rt> 你<rt>&nbsp;nei5</rt>或<rt>&nbsp;waak6</rt>我<rt>&nbsp;ngo5</rt>也<rt>&nbsp;jaa5</rt>會<rt>&nbsp;wui5</rt>變<rt>&nbsp;bin3</rt>心<rt>&nbsp;sam1</rt>
+</ruby><br><br>
+
+<ruby>
+慨<rt>&nbsp;koi3</rt>歎<rt>&nbsp;taan3</rt>怎<rt>&nbsp;zam2</rt>麼<rt>&nbsp;mo1</rt>會<rt>&nbsp;wui5</rt> 久<rt>&nbsp;gau2</rt>合<rt>&nbsp;hap6</rt> 終<rt>&nbsp;zung1</rt>要<rt>&nbsp;jiu3</rt>分<rt>&nbsp;fan1</rt>
+</ruby><br><br>
+
+<ruby>
+狂<rt>&nbsp;kong4</rt>風<rt>&nbsp;fung1</rt>吹<rt>&nbsp;ceoi1</rt>得<rt>&nbsp;dak1</rt>起<rt>&nbsp;hei2</rt>勁<rt>&nbsp;ging6</rt> 朗<rt>&nbsp;long5</rt>月<rt>&nbsp;jyut6</rt>也<rt>&nbsp;jaa5</rt>要<rt>&nbsp;jiu3</rt>被<rt>&nbsp;bei6</rt>敝<rt>&nbsp;bai6</rt>隱<rt>&nbsp;jan2</rt>
+</ruby><br><br>
+
+<ruby>
+泛<rt>&nbsp;faan6</rt>起<rt>&nbsp;hei2</rt>一<rt>&nbsp;jat1</rt>片<rt>&nbsp;pin3</rt>迷<rt>&nbsp;mai4</rt>濛<rt>&nbsp;mung4</rt>塵<rt>&nbsp;can4</rt>埃<rt>&nbsp;oi1</rt>滾<rt>&nbsp;gwan2</rt>
+</ruby><br><br>
+
+<ruby>
+掠<rt>&nbsp;loek6</rt>走<rt>&nbsp;zau2</rt>心<rt>&nbsp;sam1</rt>裡<rt>&nbsp;leoi5</rt>一<rt>&nbsp;jat1</rt>切<rt>&nbsp;cai3</rt>美<rt>&nbsp;mei5</rt>夢<rt>&nbsp;mung6</rt> 帶<rt>&nbsp;daai3</rt>去<rt>&nbsp;heoi3</rt>那<rt>&nbsp;naa5</rt>歡<rt>&nbsp;fun1</rt>欣<rt>&nbsp;jan1</rt>
+</ruby><br><br>
+
+<ruby>
+帶<rt>&nbsp;daai3</rt>去<rt>&nbsp;heoi3</rt>我<rt>&nbsp;ngo5</rt>的<rt>&nbsp;dik1</rt>愛<rt>&nbsp;oi3</rt> 只<rt>&nbsp;zi2</rt>是<rt>&nbsp;si6</rt> 獨<rt>&nbsp;duk6</rt>留<rt>&nbsp;lau4</rt>恨<rt>&nbsp;han6</rt>
+</ruby><br><br>
+
+<ruby>
+吹<rt>&nbsp;ceoi1</rt>啊<rt>&nbsp;aa1</rt>吹<rt>&nbsp;ceoi1</rt> 讓<rt>&nbsp;joeng6</rt>這<rt>&nbsp;ze5</rt>風<rt>&nbsp;fung1</rt>吹<rt>&nbsp;ceoi1</rt>
+</ruby><br><br>
+
+<ruby>
+抹<rt>&nbsp;maat3</rt>乾<rt>&nbsp;gon1</rt>眼<rt>&nbsp;ngaan5</rt>眸<rt>&nbsp;mau4</rt>裡<rt>&nbsp;leoi5</rt> 亮<rt>&nbsp;loeng6</rt>晶<rt>&nbsp;zing1</rt>的<rt>&nbsp;dik1</rt>眼<rt>&nbsp;ngaan5</rt>淚<rt>&nbsp;leoi6</rt>
+</ruby><br><br>
+
+<ruby>
+吹<rt>&nbsp;ceoi1</rt>啊<rt>&nbsp;aa1</rt>吹<rt>&nbsp;ceoi1</rt> 讓<rt>&nbsp;joeng6</rt>這<rt>&nbsp;ze5</rt>風<rt>&nbsp;fung1</rt>吹<rt>&nbsp;ceoi1</rt>
+</ruby><br><br>
+
+<ruby>
+哀<rt>&nbsp;oi1</rt>傷<rt>&nbsp;soeng1</rt>通<rt>&nbsp;tung1</rt>通<rt>&nbsp;tung1</rt>帶<rt>&nbsp;daai3</rt>走<rt>&nbsp;zau2</rt> 管<rt>&nbsp;gun2</rt>風<rt>&nbsp;fung1</rt>裡<rt>&nbsp;leoi5</rt>是<rt>&nbsp;si6</rt>誰<rt>&nbsp;seoi4</rt>
+</ruby><br><br>
+
+<ruby>
+吹<rt>&nbsp;ceoi1</rt>啊<rt>&nbsp;aa1</rt>吹<rt>&nbsp;ceoi1</rt> 讓<rt>&nbsp;joeng6</rt>這<rt>&nbsp;ze5</rt>風<rt>&nbsp;fung1</rt>吹<rt>&nbsp;ceoi1</rt>
+</ruby><br><br>
+
+<ruby>
+抹<rt>&nbsp;maat3</rt>乾<rt>&nbsp;gon1</rt>眼<rt>&nbsp;ngaan5</rt>眸<rt>&nbsp;mau4</rt>裡<rt>&nbsp;leoi5</rt> 亮<rt>&nbsp;loeng6</rt>晶<rt>&nbsp;zing1</rt>的<rt>&nbsp;dik1</rt>眼<rt>&nbsp;ngaan5</rt>淚<rt>&nbsp;leoi6</rt>
+</ruby><br><br>
+
+<ruby>
+吹<rt>&nbsp;ceoi1</rt>啊<rt>&nbsp;aa1</rt>吹<rt>&nbsp;ceoi1</rt> 讓<rt>&nbsp;joeng6</rt>這<rt>&nbsp;ze5</rt>風<rt>&nbsp;fung1</rt>吹<rt>&nbsp;ceoi1</rt>
+</ruby><br><br>
+
+<ruby>
+哀<rt>&nbsp;oi1</rt>傷<rt>&nbsp;soeng1</rt>通<rt>&nbsp;tung1</rt>通<rt>&nbsp;tung1</rt>帶<rt>&nbsp;daai3</rt>走<rt>&nbsp;zau2</rt> 管<rt>&nbsp;gun2</rt>風<rt>&nbsp;fung1</rt>裡<rt>&nbsp;leoi5</rt>是<rt>&nbsp;si6</rt>誰<rt>&nbsp;seoi4</rt>
+</ruby><br><br>
+#+END_EXPORT
