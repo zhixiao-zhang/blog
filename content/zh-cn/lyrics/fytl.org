@@ -1,0 +1,56 @@
+#+TITLE: 风雨同路
+#+CATEGORIES[]: 歌词
+
+#+BEGIN_EXPORT html
+<ruby>
+似<rt>&nbsp;ci5</rt>是<rt>&nbsp;si6</rt>歡<rt>&nbsp;fun1</rt>笑<rt>&nbsp;siu3</rt> 似<rt>&nbsp;ci5</rt>是<rt>&nbsp;si6</rt>苦<rt>&nbsp;fu2</rt>困<rt>&nbsp;kwan3</rt> 怎<rt>&nbsp;zam2</rt>可<rt>&nbsp;ho2</rt>分<rt>&nbsp;fan1</rt>開<rt>&nbsp;hoi1</rt>假<rt>&nbsp;gaa2</rt>與<rt>&nbsp;jyu5</rt>真<rt>&nbsp;zan1</rt>
+</ruby><br><br>
+
+<ruby>
+恩<rt>&nbsp;jan1</rt>怨<rt>&nbsp;jyun3</rt>不<rt>&nbsp;bat1</rt>分<rt>&nbsp;fan1</rt> 愛<rt>&nbsp;oi3</rt>亦<rt>&nbsp;jik6</rt>有<rt>&nbsp;jau5</rt>恨<rt>&nbsp;han6</rt> 明<rt>&nbsp;ming4</rt>亮<rt>&nbsp;loeng6</rt>背<rt>&nbsp;bui3</rt>影<rt>&nbsp;jing2</rt>有<rt>&nbsp;jau5</rt>黑<rt>&nbsp;hak1</rt>暗<rt>&nbsp;am3</rt>
+</ruby><br><br>
+
+<ruby>
+往<rt>&nbsp;wong5</rt>事<rt>&nbsp;si6</rt>不<rt>&nbsp;bat1</rt>記<rt>&nbsp;gei3</rt> 往<rt>&nbsp;wong5</rt>事<rt>&nbsp;si6</rt>不<rt>&nbsp;bat1</rt>理<rt>&nbsp;lei5</rt> 一<rt>&nbsp;jat1</rt>生<rt>&nbsp;sang1</rt>幾<rt>&nbsp;gei2</rt>多<rt>&nbsp;do1</rt>苦<rt>&nbsp;fu2</rt>與<rt>&nbsp;jyu5</rt>甘<rt>&nbsp;gam1</rt>
+</ruby><br><br>
+
+<ruby>
+珍<rt>&nbsp;zan1</rt>惜<rt>&nbsp;sik1</rt>今<rt>&nbsp;gam1</rt>朝<rt>&nbsp;ziu1</rt> 盼<rt>&nbsp;paan3</rt>望<rt>&nbsp;mong6</rt>以<rt>&nbsp;ji5</rt>後<rt>&nbsp;hau6</rt> 同<rt>&nbsp;tung4</rt>渡<rt>&nbsp;dou6</rt>困<rt>&nbsp;kwan3</rt>苦<rt>&nbsp;fu2</rt>與<rt>&nbsp;jyu5</rt>厄<rt>&nbsp;ak1</rt>困<rt>&nbsp;kwan3</rt>
+</ruby><br><br>
+
+<ruby>
+今<rt>&nbsp;gam1</rt>天<rt>&nbsp;tin1</rt>且<rt>&nbsp;ce2</rt>雙<rt>&nbsp;soeng1</rt>親<rt>&nbsp;can1</rt> 那<rt>&nbsp;naa5</rt>知<rt>&nbsp;zi1</rt>他<rt>&nbsp;taa1</rt>朝<rt>&nbsp;ziu1</rt>不<rt>&nbsp;bat1</rt>相<rt>&nbsp;soeng2</rt>分<rt>&nbsp;fan1</rt> 地<rt>&nbsp;dei6</rt>老<rt>&nbsp;lou5</rt>天<rt>&nbsp;tin1</rt>荒<rt>&nbsp;fong1</rt>轉<rt>&nbsp;zyun2</rt>眼<rt>&nbsp;ngaan5</rt>恩<rt>&nbsp;jan1</rt>義<rt>&nbsp;ji6</rt>泯<rt>&nbsp;man3</rt>
+</ruby><br><br>
+
+<ruby>
+不<rt>&nbsp;bat1</rt>必<rt>&nbsp;bit1</rt>怕<rt>&nbsp;paa3</rt>多<rt>&nbsp;do1</rt>變<rt>&nbsp;bin3</rt>幻<rt>&nbsp;waan6</rt> 風<rt>&nbsp;fung1</rt>雨<rt>&nbsp;jyu5</rt>同<rt>&nbsp;tung4</rt>路<rt>&nbsp;lou6</rt>見<rt>&nbsp;gin3</rt>真<rt>&nbsp;zan1</rt>心<rt>&nbsp;sam1</rt> 月<rt>&nbsp;jyut6</rt>缺<rt>&nbsp;kyut3</rt>一<rt>&nbsp;jat1</rt>樣<rt>&nbsp;joeng6</rt>星<rt>&nbsp;sing1</rt>星<rt>&nbsp;sing1</rt>襯<rt>&nbsp;can3</rt>
+</ruby><br><br>
+
+<ruby>
+似<rt>&nbsp;ci5</rt>是<rt>&nbsp;si6</rt>歡<rt>&nbsp;fun1</rt>笑<rt>&nbsp;siu3</rt> 似<rt>&nbsp;ci5</rt>是<rt>&nbsp;si6</rt>苦<rt>&nbsp;fu2</rt>困<rt>&nbsp;kwan3</rt> 怎<rt>&nbsp;zam2</rt>可<rt>&nbsp;ho2</rt>分<rt>&nbsp;fan1</rt>開<rt>&nbsp;hoi1</rt>假<rt>&nbsp;gaa2</rt>與<rt>&nbsp;jyu5</rt>真<rt>&nbsp;zan1</rt>
+</ruby><br><br>
+
+<ruby>
+恩<rt>&nbsp;jan1</rt>怨<rt>&nbsp;jyun3</rt>不<rt>&nbsp;bat1</rt>分<rt>&nbsp;fan1</rt> 愛<rt>&nbsp;oi3</rt>亦<rt>&nbsp;jik6</rt>有<rt>&nbsp;jau5</rt>恨<rt>&nbsp;han6</rt> 明<rt>&nbsp;ming4</rt>亮<rt>&nbsp;loeng6</rt>背<rt>&nbsp;bui3</rt>影<rt>&nbsp;jing2</rt>有<rt>&nbsp;jau5</rt>黑<rt>&nbsp;hak1</rt>暗<rt>&nbsp;am3</rt>
+</ruby><br><br>
+
+<ruby>
+今<rt>&nbsp;gam1</rt>天<rt>&nbsp;tin1</rt>且<rt>&nbsp;ce2</rt>雙<rt>&nbsp;soeng1</rt>親<rt>&nbsp;can1</rt> 那<rt>&nbsp;naa5</rt>知<rt>&nbsp;zi1</rt>他<rt>&nbsp;taa1</rt>朝<rt>&nbsp;ziu1</rt>不<rt>&nbsp;bat1</rt>相<rt>&nbsp;soeng2</rt>分<rt>&nbsp;fan1</rt> 地<rt>&nbsp;dei6</rt>老<rt>&nbsp;lou5</rt>天<rt>&nbsp;tin1</rt>荒<rt>&nbsp;fong1</rt>轉<rt>&nbsp;zyun2</rt>眼<rt>&nbsp;ngaan5</rt>恩<rt>&nbsp;jan1</rt>義<rt>&nbsp;ji6</rt>泯<rt>&nbsp;man3</rt>
+</ruby><br><br>
+
+<ruby>
+不<rt>&nbsp;bat1</rt>必<rt>&nbsp;bit1</rt>怕<rt>&nbsp;paa3</rt>多<rt>&nbsp;do1</rt>變<rt>&nbsp;bin3</rt>幻<rt>&nbsp;waan6</rt> 風<rt>&nbsp;fung1</rt>雨<rt>&nbsp;jyu5</rt>同<rt>&nbsp;tung4</rt>路<rt>&nbsp;lou6</rt>見<rt>&nbsp;gin3</rt>真<rt>&nbsp;zan1</rt>心<rt>&nbsp;sam1</rt> 月<rt>&nbsp;jyut6</rt>缺<rt>&nbsp;kyut3</rt>一<rt>&nbsp;jat1</rt>樣<rt>&nbsp;joeng6</rt>星<rt>&nbsp;sing1</rt>星<rt>&nbsp;sing1</rt>襯<rt>&nbsp;can3</rt>
+</ruby><br><br>
+
+<ruby>
+往<rt>&nbsp;wong5</rt>事<rt>&nbsp;si6</rt>不<rt>&nbsp;bat1</rt>記<rt>&nbsp;gei3</rt> 往<rt>&nbsp;wong5</rt>事<rt>&nbsp;si6</rt>不<rt>&nbsp;bat1</rt>理<rt>&nbsp;lei5</rt> 一<rt>&nbsp;jat1</rt>生<rt>&nbsp;sang1</rt>幾<rt>&nbsp;gei2</rt>多<rt>&nbsp;do1</rt>苦<rt>&nbsp;fu2</rt>與<rt>&nbsp;jyu5</rt>甘<rt>&nbsp;gam1</rt>
+</ruby><br><br>
+
+<ruby>
+珍<rt>&nbsp;zan1</rt>惜<rt>&nbsp;sik1</rt>今<rt>&nbsp;gam1</rt>朝<rt>&nbsp;ziu1</rt> 盼<rt>&nbsp;paan3</rt>望<rt>&nbsp;mong6</rt>以<rt>&nbsp;ji5</rt>後<rt>&nbsp;hau6</rt> 同<rt>&nbsp;tung4</rt>渡<rt>&nbsp;dou6</rt>困<rt>&nbsp;kwan3</rt>苦<rt>&nbsp;fu2</rt>與<rt>&nbsp;jyu5</rt>厄<rt>&nbsp;ak1</rt>困<rt>&nbsp;kwan3</rt>
+</ruby><br><br>
+
+<ruby>
+珍<rt>&nbsp;zan1</rt>惜<rt>&nbsp;sik1</rt>今<rt>&nbsp;gam1</rt>朝<rt>&nbsp;ziu1</rt> 盼<rt>&nbsp;paan3</rt>望<rt>&nbsp;mong6</rt>以<rt>&nbsp;ji5</rt>後<rt>&nbsp;hau6</rt> 同<rt>&nbsp;tung4</rt>渡<rt>&nbsp;dou6</rt>困<rt>&nbsp;kwan3</rt>苦<rt>&nbsp;fu2</rt>與<rt>&nbsp;jyu5</rt>厄<rt>&nbsp;ak1</rt>困<rt>&nbsp;kwan3</rt>
+</ruby><br><br>
+#+END_EXPORT
