@@ -1,0 +1,128 @@
+#+TITLE: 凭着爱
+#+CATEGORIES[]: 歌词
+
+#+BEGIN_EXPORT html
+<ruby>
+曾<rt>&nbsp;cang4</rt>踏<rt>&nbsp;daap6</rt>遍<rt>&nbsp;pin3</rt> 刺<rt>&nbsp;ci3</rt>脚<rt>&nbsp;goek3</rt>的<rt>&nbsp;dik1</rt>弯<rt>&nbsp;waan1</rt>路<rt>&nbsp;lou6</rt>
+</ruby><br><br>
+
+<ruby>
+疲<rt>&nbsp;pei4</rt>倦<rt>&nbsp;gyun6</rt>了<rt>&nbsp;liu5</rt> 谁<rt>&nbsp;seoi4</rt>来<rt>&nbsp;loi4</rt>倾<rt>&nbsp;king1</rt>诉<rt>&nbsp;sou3</rt>
+</ruby><br><br>
+
+<ruby>
+遇<rt>&nbsp;jyu6</rt>过<rt>&nbsp;gwo3</rt>几<rt>&nbsp;gei2</rt>多<rt>&nbsp;do1</rt>痴<rt>&nbsp;ci1</rt>情<rt>&nbsp;cing4</rt> 怎<rt>&nbsp;zam2</rt>会<rt>&nbsp;wui5</rt>不<rt>&nbsp;bat1</rt>知<rt>&nbsp;zi1</rt>道<rt>&nbsp;dou</rt>
+</ruby><br><br>
+
+<ruby>
+但<rt>&nbsp;daan6</rt>我<rt>&nbsp;ngo5</rt>深<rt>&nbsp;sam1</rt>知<rt>&nbsp;zi1</rt>总<rt>&nbsp;zung2</rt>有<rt>&nbsp;jau5</rt>一<rt>&nbsp;jat1</rt>日<rt>&nbsp;jat6</rt>
+</ruby><br><br>
+
+<ruby>
+定<rt>&nbsp;ding6</rt>会<rt>&nbsp;wui5</rt>找<rt>&nbsp;zaau2</rt>得<rt>&nbsp;dak1</rt>到<rt>&nbsp;dou2</rt>更<rt>&nbsp;gang3</rt>好<rt>&nbsp;hou2</rt>
+</ruby><br><br>
+
+<ruby>
+凭<rt>&nbsp;pang4</rt>着<rt>&nbsp;zoek3</rt>爱<rt>&nbsp;oi3</rt> 我<rt>&nbsp;ngo5</rt>信<rt>&nbsp;seon3</rt>有<rt>&nbsp;jau5</rt>出<rt>&nbsp;ceot1</rt>路<rt>&nbsp;lou6</rt>
+</ruby><br><br>
+
+<ruby>
+凭<rt>&nbsp;pang4</rt>着<rt>&nbsp;zoek3</rt>爱<rt>&nbsp;oi3</rt> 情<rt>&nbsp;cing4</rt>怀<rt>&nbsp;waai4</rt>不<rt>&nbsp;bat1</rt>老<rt>&nbsp;lou5</rt>
+</ruby><br><br>
+
+<ruby>
+在<rt>&nbsp;zoi6</rt>这<rt>&nbsp;ze5</rt>一<rt>&nbsp;jat1</rt>刻<rt>&nbsp;hak1</rt>跟<rt>&nbsp;gan1</rt>你<rt>&nbsp;nei5</rt> 终<rt>&nbsp;zung1</rt>于<rt>&nbsp;jyu1</rt>可<rt>&nbsp;ho2</rt>拥<rt>&nbsp;jung2</rt>抱<rt>&nbsp;pou5</rt>
+</ruby><br><br>
+
+<ruby>
+就<rt>&nbsp;zau6</rt>算<rt>&nbsp;syun3</rt>始<rt>&nbsp;ci2</rt>终<rt>&nbsp;zung1</rt>失<rt>&nbsp;sat1</rt>意<rt>&nbsp;ji3</rt>倒<rt>&nbsp;dou2</rt>运<rt>&nbsp;wan6</rt>
+</ruby><br><br>
+
+<ruby>
+人<rt>&nbsp;jan4</rt>生<rt>&nbsp;sang1</rt>已<rt>&nbsp;ji5</rt>再<rt>&nbsp;zoi3</rt>没<rt>&nbsp;mut6</rt>苦<rt>&nbsp;fu2</rt>恼<rt>&nbsp;nou5</rt>
+</ruby><br><br>
+
+<ruby>
+曾<rt>&nbsp;cang4</rt>在<rt>&nbsp;zoi6</rt>这<rt>&nbsp;ze5</rt>高<rt>&nbsp;gou1</rt>高<rt>&nbsp;gou1</rt>低<rt>&nbsp;dai1</rt>低<rt>&nbsp;dai1</rt> 弯<rt>&nbsp;waan1</rt>弯<rt>&nbsp;waan1</rt>曲<rt>&nbsp;kuk1</rt>曲<rt>&nbsp;kuk1</rt>中<rt>&nbsp;zung1</rt>跌<rt>&nbsp;dit3</rt>倒<rt>&nbsp;dou2</rt>
+</ruby><br><br>
+
+<ruby>
+才<rt>&nbsp;coi4</rt>骤<rt>&nbsp;zaau6</rt>觉<rt>&nbsp;gok3</rt>开<rt>&nbsp;hoi1</rt>开<rt>&nbsp;hoi1</rt>心<rt>&nbsp;sam1</rt>心<rt>&nbsp;sam1</rt> 简<rt>&nbsp;gaan2</rt>简<rt>&nbsp;gaan2</rt>单<rt>&nbsp;daan1</rt>单<rt>&nbsp;daan1</rt>已<rt>&nbsp;ji5</rt>极<rt>&nbsp;gik6</rt>好<rt>&nbsp;hou2</rt>
+</ruby><br><br>
+
+<ruby>
+最<rt>&nbsp;zeoi3</rt>美<rt>&nbsp;mei5</rt>丽<rt>&nbsp;lai6</rt>仍<rt>&nbsp;jing4</rt>然<rt>&nbsp;jin4</rt>是<rt>&nbsp;si6</rt>爱<rt>&nbsp;oi3</rt>
+</ruby><br><br>
+
+<ruby>
+带<rt>&nbsp;daai3</rt>泪<rt>&nbsp;leoi6</rt>尝<rt>&nbsp;soeng4</rt>仍<rt>&nbsp;jing4</rt>然<rt>&nbsp;jin4</rt>是<rt>&nbsp;si6</rt>好<rt>&nbsp;hou2</rt>
+</ruby><br><br>
+
+<ruby>
+未<rt>&nbsp;mei6</rt>惧<rt>&nbsp;geoi6</rt>怕<rt>&nbsp;paa3</rt>一<rt>&nbsp;jat1</rt>生<rt>&nbsp;sang1</rt>的<rt>&nbsp;dik1</rt>波<rt>&nbsp;bo1</rt>折<rt>&nbsp;zit3</rt>伴<rt>&nbsp;bun6</rt>到<rt>&nbsp;dou3</rt>老<rt>&nbsp;lou5</rt>
+</ruby><br><br>
+
+<ruby>
+凭<rt>&nbsp;pang4</rt>着<rt>&nbsp;zoek3</rt>爱<rt>&nbsp;oi3</rt> 我<rt>&nbsp;ngo5</rt>信<rt>&nbsp;seon3</rt>有<rt>&nbsp;jau5</rt>出<rt>&nbsp;ceot1</rt>路<rt>&nbsp;lou6</rt>
+</ruby><br><br>
+
+<ruby>
+凭<rt>&nbsp;pang4</rt>着<rt>&nbsp;zoek3</rt>爱<rt>&nbsp;oi3</rt> 情<rt>&nbsp;cing4</rt>怀<rt>&nbsp;waai4</rt>不<rt>&nbsp;bat1</rt>老<rt>&nbsp;lou5</rt>
+</ruby><br><br>
+
+<ruby>
+在<rt>&nbsp;zoi6</rt>这<rt>&nbsp;ze5</rt>一<rt>&nbsp;jat1</rt>刻<rt>&nbsp;hak1</rt>跟<rt>&nbsp;gan1</rt>你<rt>&nbsp;nei5</rt> 终<rt>&nbsp;zung1</rt>于<rt>&nbsp;jyu1</rt>可<rt>&nbsp;ho2</rt>拥<rt>&nbsp;jung2</rt>抱<rt>&nbsp;pou5</rt>
+</ruby><br><br>
+
+<ruby>
+就<rt>&nbsp;zau6</rt>算<rt>&nbsp;syun3</rt>始<rt>&nbsp;ci2</rt>终<rt>&nbsp;zung1</rt>失<rt>&nbsp;sat1</rt>意<rt>&nbsp;ji3</rt>倒<rt>&nbsp;dou2</rt>运<rt>&nbsp;wan6</rt>
+</ruby><br><br>
+
+<ruby>
+人<rt>&nbsp;jan4</rt>生<rt>&nbsp;sang1</rt>已<rt>&nbsp;ji5</rt>再<rt>&nbsp;zoi3</rt>没<rt>&nbsp;mut6</rt>苦<rt>&nbsp;fu2</rt>恼<rt>&nbsp;nou5</rt>
+</ruby><br><br>
+
+<ruby>
+曾<rt>&nbsp;cang4</rt>在<rt>&nbsp;zoi6</rt>这<rt>&nbsp;ze5</rt>高<rt>&nbsp;gou1</rt>高<rt>&nbsp;gou1</rt>低<rt>&nbsp;dai1</rt>低<rt>&nbsp;dai1</rt> 弯<rt>&nbsp;waan1</rt>弯<rt>&nbsp;waan1</rt>曲<rt>&nbsp;kuk1</rt>曲<rt>&nbsp;kuk1</rt>中<rt>&nbsp;zung3</rt>跌<rt>&nbsp;dit3</rt>倒<rt>&nbsp;dou2</rt>
+</ruby><br><br>
+
+<ruby>
+才<rt>&nbsp;coi4</rt>骤<rt>&nbsp;zaau6</rt>觉<rt>&nbsp;gok3</rt>开<rt>&nbsp;hoi1</rt>开<rt>&nbsp;hoi1</rt>心<rt>&nbsp;sam1</rt>心<rt>&nbsp;sam1</rt> 简<rt>&nbsp;gaan2</rt>简<rt>&nbsp;gaan2</rt>单<rt>&nbsp;daan1</rt>单<rt>&nbsp;daan1</rt>已<rt>&nbsp;ji5</rt>极<rt>&nbsp;gik6</rt>好<rt>&nbsp;hou2</rt>
+</ruby><br><br>
+
+<ruby>
+最<rt>&nbsp;zeoi3</rt>美<rt>&nbsp;mei5</rt>丽<rt>&nbsp;lai6</rt>仍<rt>&nbsp;jing4</rt>然<rt>&nbsp;jin4</rt>是<rt>&nbsp;si6</rt>爱<rt>&nbsp;oi3</rt>
+</ruby><br><br>
+
+<ruby>
+带<rt>&nbsp;daai3</rt>泪<rt>&nbsp;leoi6</rt>尝<rt>&nbsp;soeng4</rt>仍<rt>&nbsp;jing4</rt>然<rt>&nbsp;jin4</rt>是<rt>&nbsp;si6</rt>好<rt>&nbsp;hou2</rt>
+</ruby><br><br>
+
+<ruby>
+未<rt>&nbsp;mei6</rt>惧<rt>&nbsp;geoi6</rt>怕<rt>&nbsp;paa3</rt>一<rt>&nbsp;jat1</rt>生<rt>&nbsp;sang1</rt>的<rt>&nbsp;dik1</rt>波<rt>&nbsp;bo1</rt>折<rt>&nbsp;zit3</rt> 伴<rt>&nbsp;bun6</rt>到<rt>&nbsp;dou3</rt>老<rt>&nbsp;lou5</rt>
+</ruby><br><br>
+
+<ruby>
+曾<rt>&nbsp;cang4</rt>在<rt>&nbsp;zoi6</rt>这<rt>&nbsp;ze5</rt>高<rt>&nbsp;gou1</rt>高<rt>&nbsp;gou1</rt>低<rt>&nbsp;dai1</rt>低<rt>&nbsp;dai1</rt>弯<rt>&nbsp;waan1</rt>弯<rt>&nbsp;waan1</rt>曲<rt>&nbsp;kuk1</rt>曲<rt>&nbsp;kuk1</rt>中<rt>&nbsp;zung3</rt>跌<rt>&nbsp;dit3</rt>倒<rt>&nbsp;dou2</rt>
+</ruby><br><br>
+
+<ruby>
+才<rt>&nbsp;coi4</rt>骤<rt>&nbsp;zaau6</rt>觉<rt>&nbsp;gok3</rt>开<rt>&nbsp;hoi1</rt>开<rt>&nbsp;hoi1</rt>心<rt>&nbsp;sam1</rt>心<rt>&nbsp;sam1</rt> 简<rt>&nbsp;gaan2</rt>简<rt>&nbsp;gaan2</rt>单<rt>&nbsp;daan1</rt>单<rt>&nbsp;daan1</rt>已<rt>&nbsp;ji5</rt>极<rt>&nbsp;gik6</rt>好<rt>&nbsp;hou2</rt>
+</ruby><br><br>
+
+<ruby>
+最<rt>&nbsp;zeoi3</rt>美<rt>&nbsp;mei5</rt>丽<rt>&nbsp;lai6</rt>仍<rt>&nbsp;jing4</rt>然<rt>&nbsp;jin4</rt>是<rt>&nbsp;si6</rt>爱<rt>&nbsp;oi3</rt>
+</ruby><br><br>
+
+<ruby>
+带<rt>&nbsp;daai3</rt>泪<rt>&nbsp;leoi6</rt>尝<rt>&nbsp;soeng4</rt>仍<rt>&nbsp;jing4</rt>然<rt>&nbsp;jin4</rt>是<rt>&nbsp;si6</rt>好<rt>&nbsp;hou2</rt>
+</ruby><br><br>
+
+<ruby>
+未<rt>&nbsp;mei6</rt>惧<rt>&nbsp;geoi6</rt>怕<rt>&nbsp;paa3</rt>一<rt>&nbsp;jat1</rt>生<rt>&nbsp;sang1</rt>的<rt>&nbsp;dik1</rt>波<rt>&nbsp;bo1</rt>折<rt>&nbsp;zit3</rt> 伴<rt>&nbsp;bun6</rt>到<rt>&nbsp;dou3</rt>老<rt>&nbsp;lou5</rt>
+</ruby><br><br>
+
+<ruby>
+凭<rt>&nbsp;pang4</rt>着<rt>&nbsp;zoek3</rt>爱<rt>&nbsp;oi3</rt>只<rt>&nbsp;zi2</rt>管<rt>&nbsp;gun2</rt>一<rt>&nbsp;jat1</rt>生<rt>&nbsp;sang1</rt> 磨<rt>&nbsp;mo4</rt>练<rt>&nbsp;lin6</rt>到<rt>&nbsp;dou3</rt>老<rt>&nbsp;lou5</rt>
+</ruby><br><br>
+#+END_EXPORT
