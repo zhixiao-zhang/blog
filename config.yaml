@@ -3,7 +3,7 @@ languageCode: zh-CN
 defaultContentLanguage: zh-cn
 defaultContentLanguageInSubdir: true
 title: 骊歌
-copyright: "© 2025 Zhixiao Zhang"
+copyright: "© 2026 Zhixiao Zhang"
 theme: "hugo-xmag"
 
 pagination:
@@ -49,15 +49,11 @@ languages:
           weight: 3
     contentDir: content/en
 params:
-  description: "Test"
-  footer: "&copy; Zhixiao Zhang 2024 - 2025 | [Github](https://github.com/zhixiao-zhang)"
+  description: "骊歌 —— 一份关于随笔、读书笔记与粤语歌词的私人杂志,记录思考、生活与心绪流转。"
+  subtitle: "PARTINGSONG · A JOURNAL"
+  footer: "&copy; Zhixiao Zhang 2024 - 2026 | [Github](https://github.com/zhixiao-zhang)"
   text:
-    back: "&larr; Back to Home"
-    edit: "Edit this page &rarr;"
     truncated: "&hellip;"
   summary_length: 200
   terms_exclude:
     - "歌词"
-
-  markup:
-    defaultMarkdownHandler: org
