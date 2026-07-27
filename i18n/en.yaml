@@ -9,3 +9,13 @@ back_home:
   other: "Back to Home"
 back_section_lyrics:
   other: "Back to Lyrics"
+edit:
+  other: "Edit this page &rarr;"
+uncategorized:
+  other: "Uncategorized"
+about_author:
+  other: "About the Author"
+last_update:
+  other: "Last updated: "
+author_delimiter:
+  other: ", "
