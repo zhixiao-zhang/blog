@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Locale | default .Site.Language.Lang | default "en" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>404 | {{ .Site.Title }}</title>
+  </head>
+  <body>
+    <main>
+      <h1>404 NOT FOUND</h1>
+      <p><a href="{{ "/" | relLangURL }}">Back to Home</a></p>
+    </main>
+  </body>
+</html>
